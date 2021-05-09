@@ -1,4 +1,4 @@
-# projeto-sds3
+# Projeto-sds3
 Desenvolvimento do projeto utilizando Spring Boot no back end, e ReactJS no front end.
 
 
